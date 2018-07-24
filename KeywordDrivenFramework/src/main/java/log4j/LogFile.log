@@ -1,0 +1,868 @@
+2018-07-22 10:30:51,696 INFO  [Log] ********************************************* 
+2018-07-22 10:30:51,696 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:30:51,696 INFO  [Log] ********************************************* 
+2018-07-22 10:30:51,696 INFO  [Log] Opening Browser 
+2018-07-22 10:30:55,657 INFO  [Log] Navigating to URL 
+2018-07-22 10:31:02,489 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-22 10:31:04,477 INFO  [Log] Entering text into textbox Username 
+2018-07-22 10:31:04,663 INFO  [Log] Entering password into textbox Password 
+2018-07-22 10:31:04,746 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-22 10:31:04,842 INFO  [Log] Waiting for 3 seconds 
+2018-07-22 10:31:07,843 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-22 10:31:09,450 INFO  [Log] Closing Browser 
+2018-07-22 10:31:10,124 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 10:31:10,124 INFO  [Log] ********** TestCase *************** 
+2018-07-22 10:31:10,124 INFO  [Log] # 
+2018-07-22 10:31:10,124 INFO  [Log] # 
+2018-07-22 10:31:10,124 INFO  [Log] # 
+2018-07-22 10:32:13,475 INFO  [Log] ****************Start TestCase**************** 
+2018-07-22 10:32:13,475 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:32:13,475 INFO  [Log] ********************************************* 
+2018-07-22 10:32:13,475 INFO  [Log] Opening Browser 
+2018-07-22 10:32:17,357 INFO  [Log] Navigating to URL 
+2018-07-22 10:32:24,992 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-22 10:32:28,564 INFO  [Log] Entering text into textbox Username 
+2018-07-22 10:32:28,726 INFO  [Log] Entering password into textbox Password 
+2018-07-22 10:32:28,816 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-22 10:32:28,906 INFO  [Log] Waiting for 3 seconds 
+2018-07-22 10:32:31,907 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-22 10:32:34,100 INFO  [Log] Closing Browser 
+2018-07-22 10:32:34,756 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 10:32:34,756 INFO  [Log] ********** TestCase *************** 
+2018-07-22 10:32:34,756 INFO  [Log] # 
+2018-07-22 10:32:34,756 INFO  [Log] # 
+2018-07-22 10:32:34,756 INFO  [Log] # 
+2018-07-22 10:33:28,727 INFO  [Log] ************ Start TestCase************** 
+2018-07-22 10:33:28,728 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:33:28,728 INFO  [Log] ********************************************* 
+2018-07-22 10:33:28,728 INFO  [Log] Opening Browser 
+2018-07-22 10:33:32,217 INFO  [Log] Navigating to URL 
+2018-07-22 10:33:38,930 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-22 10:33:47,904 INFO  [Log] Entering text into textbox Username 
+2018-07-22 10:33:48,091 INFO  [Log] Entering password into textbox Password 
+2018-07-22 10:33:48,181 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-22 10:33:53,290 INFO  [Log] Waiting for 3 seconds 
+2018-07-22 10:33:56,291 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-22 10:34:03,613 INFO  [Log] Closing Browser 
+2018-07-22 10:34:04,261 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 10:34:04,261 INFO  [Log] ********** TestCase *************** 
+2018-07-22 10:34:04,261 INFO  [Log] # 
+2018-07-22 10:34:04,261 INFO  [Log] # 
+2018-07-22 10:34:04,261 INFO  [Log] # 
+2018-07-22 10:37:14,537 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 10:37:14,537 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:37:14,538 INFO  [Log] ********************************************* 
+2018-07-22 10:37:14,541 INFO  [Log] Opening Browser 
+2018-07-22 10:37:21,701 INFO  [Log] Navigating to URL 
+2018-07-22 10:37:31,701 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-22 10:37:34,213 INFO  [Log] Entering text into textbox Username 
+2018-07-22 10:37:40,417 INFO  [Log] Entering password into textbox Password 
+2018-07-22 10:37:40,516 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-22 10:37:40,634 INFO  [Log] Waiting for 3 seconds 
+2018-07-22 10:37:43,635 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-22 10:37:45,340 INFO  [Log] Closing Browser 
+2018-07-22 10:37:46,425 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 10:37:46,425 INFO  [Log] ********** TestCase *************** 
+2018-07-22 10:37:46,425 INFO  [Log] # 
+2018-07-22 10:37:46,425 INFO  [Log] # 
+2018-07-22 10:37:46,425 INFO  [Log] # 
+2018-07-22 10:55:38,190 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 10:55:38,200 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:55:38,200 INFO  [Log] *********************************** 
+2018-07-22 10:55:38,204 INFO  [Log] Opening Browser 
+2018-07-22 10:55:48,626 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 10:55:48,628 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:55:48,628 INFO  [Log] *********************************** 
+2018-07-22 10:55:48,633 INFO  [Log] Opening Browser 
+2018-07-22 10:56:58,504 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 10:56:58,505 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:56:58,505 INFO  [Log] *********************************** 
+2018-07-22 10:56:58,509 INFO  [Log] Opening Browser 
+2018-07-22 10:56:58,675 INFO  [Log] Navigating to URL 
+2018-07-22 10:57:30,145 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 10:57:30,146 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 10:57:30,146 INFO  [Log] *********************************** 
+2018-07-22 10:57:30,148 INFO  [Log] Opening Browser 
+2018-07-22 10:57:30,342 INFO  [Log] Navigating to URL 
+2018-07-22 11:04:05,716 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:04:05,717 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:04:05,717 INFO  [Log] *********************************** 
+2018-07-22 11:04:05,721 INFO  [Log] Opening Browser 
+2018-07-22 11:04:05,899 INFO  [Log] Not able to open Browser: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2018-07-22 11:04:05,900 INFO  [Log] Navigating to URL 
+2018-07-22 11:05:15,250 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:05:15,251 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:05:15,251 INFO  [Log] *********************************** 
+2018-07-22 11:05:15,256 INFO  [Log] Opening Browser 
+2018-07-22 11:05:15,427 INFO  [Log] Not able to open Browser: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2018-07-22 11:05:15,427 INFO  [Log] Navigating to URL 
+2018-07-22 11:22:40,452 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:22:40,452 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:22:40,452 INFO  [Log] *********************************** 
+2018-07-22 11:22:40,452 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:22:40,452 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:22:40,452 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:22:40,452 INFO  [Log] # 
+2018-07-22 11:22:40,452 INFO  [Log] # 
+2018-07-22 11:22:40,452 INFO  [Log] # 
+2018-07-22 11:23:04,796 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:23:04,796 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:23:04,796 INFO  [Log] *********************************** 
+2018-07-22 11:23:04,796 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:23:04,796 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:23:04,796 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:23:04,796 INFO  [Log] # 
+2018-07-22 11:23:04,796 INFO  [Log] # 
+2018-07-22 11:23:04,796 INFO  [Log] # 
+2018-07-22 11:23:13,192 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:23:13,192 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:23:13,192 INFO  [Log] *********************************** 
+2018-07-22 11:23:13,192 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:23:13,192 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:23:13,192 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:23:13,192 INFO  [Log] # 
+2018-07-22 11:23:13,192 INFO  [Log] # 
+2018-07-22 11:23:13,192 INFO  [Log] # 
+2018-07-22 11:23:26,522 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:23:26,522 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:23:26,522 INFO  [Log] *********************************** 
+2018-07-22 11:23:26,522 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:23:26,522 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:23:26,522 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:23:26,522 INFO  [Log] # 
+2018-07-22 11:23:26,522 INFO  [Log] # 
+2018-07-22 11:23:26,522 INFO  [Log] # 
+2018-07-22 11:25:23,537 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:25:23,538 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:25:23,538 INFO  [Log] *********************************** 
+2018-07-22 11:25:23,538 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:25:23,538 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:25:23,538 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:25:23,538 INFO  [Log] # 
+2018-07-22 11:25:23,538 INFO  [Log] # 
+2018-07-22 11:25:23,538 INFO  [Log] # 
+2018-07-22 11:26:02,177 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:26:02,178 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:26:02,178 INFO  [Log] *********************************** 
+2018-07-22 11:26:02,178 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:26:02,178 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:26:02,179 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:26:02,179 INFO  [Log] # 
+2018-07-22 11:26:02,179 INFO  [Log] # 
+2018-07-22 11:26:02,179 INFO  [Log] # 
+2018-07-22 11:26:37,305 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:26:37,305 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:26:37,305 INFO  [Log] *********************************** 
+2018-07-22 11:26:37,307 INFO  [Log] Opening Browser 
+2018-07-22 11:27:01,334 INFO  [Log] Navigating to URL 
+2018-07-22 11:27:23,078 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-22 11:27:33,748 INFO  [Log] Entering text into textbox Username 
+2018-07-22 11:27:37,687 INFO  [Log] Entering password into textbox Password 
+2018-07-22 11:27:37,793 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-22 11:27:37,909 INFO  [Log] Waiting for 3 seconds 
+2018-07-22 11:27:40,909 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-22 11:27:45,376 INFO  [Log] Closing Browser 
+2018-07-22 11:27:47,932 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:27:47,932 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:27:47,932 INFO  [Log] # 
+2018-07-22 11:27:47,932 INFO  [Log] # 
+2018-07-22 11:27:47,932 INFO  [Log] # 
+2018-07-22 11:28:30,655 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 11:28:30,659 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 11:28:30,659 INFO  [Log] *********************************** 
+2018-07-22 11:28:30,660 ERROR [Log] Class ExcelUtils || Method getRowCount || Exception des: null 
+2018-07-22 11:28:30,660 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 11:28:30,660 INFO  [Log] ********** TestCase *************** 
+2018-07-22 11:28:30,660 INFO  [Log] # 
+2018-07-22 11:28:30,660 INFO  [Log] # 
+2018-07-22 11:28:30,660 INFO  [Log] # 
+2018-07-22 12:20:20,000 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 12:20:20,001 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 12:20:20,001 INFO  [Log] *********************************** 
+2018-07-22 12:20:20,004 INFO  [Log] Opening Browser 
+2018-07-22 12:20:42,743 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-22 12:20:42,743 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-22 12:20:42,743 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 12:20:42,744 INFO  [Log] ********** TestCase *************** 
+2018-07-22 12:20:42,744 INFO  [Log] # 
+2018-07-22 12:20:42,744 INFO  [Log] # 
+2018-07-22 12:20:42,744 INFO  [Log] # 
+2018-07-22 12:23:50,864 INFO  [Log] ********* Start TestCase ********** 
+2018-07-22 12:23:50,864 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-22 12:23:50,864 INFO  [Log] *********************************** 
+2018-07-22 12:23:50,879 INFO  [Log] Opening Browser 
+2018-07-22 12:24:01,548 INFO  [Log] Navigating to URL 
+2018-07-22 12:24:08,042 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-22 12:24:16,124 INFO  [Log] Entering text into textbox Username 
+2018-07-22 12:24:17,105 INFO  [Log] Entering password into textbox Password 
+2018-07-22 12:24:17,319 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-22 12:24:17,455 INFO  [Log] Waiting for 3 seconds 
+2018-07-22 12:24:20,478 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-22 12:24:21,584 INFO  [Log] Closing Browser 
+2018-07-22 12:24:22,342 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-22 12:24:22,342 INFO  [Log] ********** TestCase *************** 
+2018-07-22 12:24:22,342 INFO  [Log] # 
+2018-07-22 12:24:22,342 INFO  [Log] # 
+2018-07-22 12:24:22,342 INFO  [Log] # 
+2018-07-23 00:58:24,932 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 00:58:25,022 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 00:58:25,022 INFO  [Log] *********************************** 
+2018-07-23 00:58:25,025 INFO  [Log] Opening Browser 
+2018-07-23 00:59:10,219 INFO  [Log] Navigating to URL 
+2018-07-23 00:59:19,056 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 00:59:21,871 INFO  [Log] Entering text into textbox Username 
+2018-07-23 00:59:22,196 INFO  [Log] Entering password into textbox Password 
+2018-07-23 00:59:22,317 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 00:59:22,449 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 00:59:25,467 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 00:59:26,648 INFO  [Log] Closing Browser 
+2018-07-23 00:59:27,405 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 00:59:27,405 INFO  [Log] ********** TestCase *************** 
+2018-07-23 00:59:27,405 INFO  [Log] # 
+2018-07-23 00:59:27,405 INFO  [Log] # 
+2018-07-23 00:59:27,405 INFO  [Log] # 
+2018-07-23 01:01:42,920 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:01:42,921 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:01:42,921 INFO  [Log] *********************************** 
+2018-07-23 01:01:42,923 INFO  [Log] Opening Browser 
+2018-07-23 01:01:48,898 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 01:01:48,898 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 01:01:48,898 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:01:48,898 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:01:48,898 INFO  [Log] # 
+2018-07-23 01:01:48,898 INFO  [Log] # 
+2018-07-23 01:01:48,898 INFO  [Log] # 
+2018-07-23 01:01:48,899 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:01:48,899 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:01:48,899 INFO  [Log] *********************************** 
+2018-07-23 01:01:48,900 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 01:01:48,901 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:01:48,901 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:01:48,901 INFO  [Log] # 
+2018-07-23 01:01:48,901 INFO  [Log] # 
+2018-07-23 01:01:48,901 INFO  [Log] # 
+2018-07-23 01:02:41,125 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:02:41,126 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:02:41,126 INFO  [Log] *********************************** 
+2018-07-23 01:02:41,128 INFO  [Log] Opening Browser 
+2018-07-23 01:02:44,815 INFO  [Log] Navigating to URL 
+2018-07-23 01:02:52,603 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:02:55,271 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:02:55,546 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:02:55,731 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:02:55,875 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:02:58,900 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:03:02,919 INFO  [Log] Closing Browser 
+2018-07-23 01:03:03,637 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:03:03,637 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:03:03,637 INFO  [Log] # 
+2018-07-23 01:03:03,637 INFO  [Log] # 
+2018-07-23 01:03:03,637 INFO  [Log] # 
+2018-07-23 01:03:03,637 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:03:03,637 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:03:03,637 INFO  [Log] *********************************** 
+2018-07-23 01:03:03,665 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:03:03,665 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:03:03,665 INFO  [Log] # 
+2018-07-23 01:03:03,665 INFO  [Log] # 
+2018-07-23 01:03:03,665 INFO  [Log] # 
+2018-07-23 01:10:47,570 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:10:47,570 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:10:47,570 INFO  [Log] *********************************** 
+2018-07-23 01:10:47,572 INFO  [Log] Opening Browser 
+2018-07-23 01:10:51,364 INFO  [Log] Navigating to URL 
+2018-07-23 01:10:57,442 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:11:00,337 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:11:00,559 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:11:00,693 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:11:00,831 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:11:03,856 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:11:05,213 INFO  [Log] Closing Browser 
+2018-07-23 01:11:06,284 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:11:06,284 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:11:06,284 INFO  [Log] # 
+2018-07-23 01:11:06,284 INFO  [Log] # 
+2018-07-23 01:11:06,284 INFO  [Log] # 
+2018-07-23 01:11:06,284 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:11:06,284 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:11:06,284 INFO  [Log] *********************************** 
+2018-07-23 01:11:06,299 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:11:06,299 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:11:06,299 INFO  [Log] # 
+2018-07-23 01:11:06,299 INFO  [Log] # 
+2018-07-23 01:11:06,299 INFO  [Log] # 
+2018-07-23 01:26:28,588 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:26:28,589 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:26:28,589 INFO  [Log] *********************************** 
+2018-07-23 01:26:28,592 INFO  [Log] Opening Browser 
+2018-07-23 01:26:33,442 INFO  [Log] Navigating to URL 
+2018-07-23 01:26:46,388 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:26:52,224 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:26:53,992 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:26:54,121 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:26:54,252 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:26:57,283 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:26:58,624 INFO  [Log] Closing Browser 
+2018-07-23 01:26:59,524 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:26:59,524 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:26:59,524 INFO  [Log] # 
+2018-07-23 01:26:59,525 INFO  [Log] # 
+2018-07-23 01:26:59,525 INFO  [Log] # 
+2018-07-23 01:27:31,138 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:27:31,142 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:27:31,144 INFO  [Log] *********************************** 
+2018-07-23 01:31:09,104 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:31:09,104 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:31:09,104 INFO  [Log] *********************************** 
+2018-07-23 01:31:09,106 INFO  [Log] Opening Browser 
+2018-07-23 01:31:19,156 INFO  [Log] Navigating to URL 
+2018-07-23 01:31:42,973 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:31:45,836 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:31:46,290 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:31:46,450 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:31:46,575 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:31:49,599 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:31:52,375 INFO  [Log] Closing Browser 
+2018-07-23 01:31:53,463 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:31:53,463 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:31:53,463 INFO  [Log] # 
+2018-07-23 01:31:53,463 INFO  [Log] # 
+2018-07-23 01:31:53,463 INFO  [Log] # 
+2018-07-23 01:31:53,463 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:31:53,463 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:31:53,463 INFO  [Log] *********************************** 
+2018-07-23 01:31:53,477 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:31:53,477 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:31:53,477 INFO  [Log] # 
+2018-07-23 01:31:53,477 INFO  [Log] # 
+2018-07-23 01:31:53,477 INFO  [Log] # 
+2018-07-23 01:42:47,170 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:42:47,183 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:42:47,183 INFO  [Log] *********************************** 
+2018-07-23 01:42:47,187 INFO  [Log] Opening Browser 
+2018-07-23 01:43:06,705 INFO  [Log] Navigating to URL 
+2018-07-23 01:43:18,753 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:43:22,774 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:43:23,299 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:43:23,439 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:43:23,604 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:43:26,634 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:43:32,205 INFO  [Log] Closing Browser 
+2018-07-23 01:43:32,948 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:43:32,948 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:43:32,949 INFO  [Log] # 
+2018-07-23 01:43:32,949 INFO  [Log] # 
+2018-07-23 01:43:32,949 INFO  [Log] # 
+2018-07-23 01:44:09,779 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:44:09,781 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:44:09,782 INFO  [Log] *********************************** 
+2018-07-23 01:48:35,358 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:48:35,369 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:48:35,369 INFO  [Log] *********************************** 
+2018-07-23 01:48:35,373 INFO  [Log] Opening Browser 
+2018-07-23 01:48:44,564 INFO  [Log] Navigating to URL 
+2018-07-23 01:48:52,350 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:48:54,802 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:48:54,989 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:48:55,135 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:48:55,278 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:48:58,296 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:49:02,858 INFO  [Log] Closing Browser 
+2018-07-23 01:49:03,596 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:49:03,596 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:49:03,596 INFO  [Log] # 
+2018-07-23 01:49:03,596 INFO  [Log] # 
+2018-07-23 01:49:03,596 INFO  [Log] # 
+2018-07-23 01:49:03,596 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:49:03,596 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:49:03,596 INFO  [Log] *********************************** 
+2018-07-23 01:49:03,610 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:49:03,610 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:49:03,610 INFO  [Log] # 
+2018-07-23 01:49:03,610 INFO  [Log] # 
+2018-07-23 01:49:03,610 INFO  [Log] # 
+2018-07-23 01:50:20,045 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:50:20,045 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 01:50:20,046 INFO  [Log] *********************************** 
+2018-07-23 01:50:20,050 INFO  [Log] Opening Browser 
+2018-07-23 01:50:24,452 INFO  [Log] Navigating to URL 
+2018-07-23 01:50:31,498 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 01:50:33,747 INFO  [Log] Entering text into textbox Username 
+2018-07-23 01:50:34,007 INFO  [Log] Entering password into textbox Password 
+2018-07-23 01:50:34,117 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 01:50:34,236 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 01:50:37,258 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 01:50:43,944 INFO  [Log] Closing Browser 
+2018-07-23 01:50:44,614 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:50:44,614 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:50:44,614 INFO  [Log] # 
+2018-07-23 01:50:44,614 INFO  [Log] # 
+2018-07-23 01:50:44,614 INFO  [Log] # 
+2018-07-23 01:50:44,614 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 01:50:44,614 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 01:50:44,614 INFO  [Log] *********************************** 
+2018-07-23 01:50:44,631 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 01:50:44,631 INFO  [Log] ********** TestCase *************** 
+2018-07-23 01:50:44,631 INFO  [Log] # 
+2018-07-23 01:50:44,631 INFO  [Log] # 
+2018-07-23 01:50:44,631 INFO  [Log] # 
+2018-07-23 02:02:18,152 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:02:18,152 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:02:18,152 INFO  [Log] *********************************** 
+2018-07-23 02:02:18,152 INFO  [Log] Navigating to URL 
+2018-07-23 02:02:18,152 ERROR [Log] Not able to navigate due Exception: null 
+2018-07-23 02:02:18,152 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:02:18,152 INFO  [Log] Closing Browser 
+2018-07-23 02:02:18,152 ERROR [Log] Not able to Close Browser due Exception: null 
+2018-07-23 02:02:18,152 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:02:18,152 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:02:18,152 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:02:18,152 INFO  [Log] # 
+2018-07-23 02:02:18,152 INFO  [Log] # 
+2018-07-23 02:02:18,152 INFO  [Log] # 
+2018-07-23 02:02:18,152 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:02:18,152 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:02:18,152 INFO  [Log] *********************************** 
+2018-07-23 02:02:18,168 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:02:18,168 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:02:18,168 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:02:18,168 INFO  [Log] # 
+2018-07-23 02:02:18,168 INFO  [Log] # 
+2018-07-23 02:02:18,168 INFO  [Log] # 
+2018-07-23 02:19:53,305 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:19:53,321 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:19:53,321 INFO  [Log] *********************************** 
+2018-07-23 02:19:53,324 INFO  [Log] Opening Browser 
+2018-07-23 02:20:14,460 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:20:14,460 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:20:14,460 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:20:14,460 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:20:14,460 INFO  [Log] # 
+2018-07-23 02:20:14,460 INFO  [Log] # 
+2018-07-23 02:20:14,460 INFO  [Log] # 
+2018-07-23 02:20:14,461 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:20:14,461 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:20:14,461 INFO  [Log] *********************************** 
+2018-07-23 02:20:14,462 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:20:14,462 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:20:14,462 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:20:14,462 INFO  [Log] # 
+2018-07-23 02:20:14,462 INFO  [Log] # 
+2018-07-23 02:20:14,462 INFO  [Log] # 
+2018-07-23 02:20:50,441 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:20:50,442 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:20:50,442 INFO  [Log] *********************************** 
+2018-07-23 02:20:50,445 INFO  [Log] Opening Browser 
+2018-07-23 02:20:57,531 INFO  [Log] Navigating to URL 
+2018-07-23 02:21:03,914 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 02:21:06,998 INFO  [Log] Entering text into textbox Username 
+2018-07-23 02:21:07,556 INFO  [Log] Entering password into textbox Password 
+2018-07-23 02:21:07,677 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 02:21:07,951 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 02:21:10,969 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 02:21:16,304 INFO  [Log] Closing Browser 
+2018-07-23 02:21:17,117 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:21:17,117 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:21:17,117 INFO  [Log] # 
+2018-07-23 02:21:17,117 INFO  [Log] # 
+2018-07-23 02:21:17,117 INFO  [Log] # 
+2018-07-23 02:21:17,117 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:21:17,118 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:21:17,118 INFO  [Log] *********************************** 
+2018-07-23 02:21:17,132 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:21:17,132 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:21:17,132 INFO  [Log] # 
+2018-07-23 02:21:17,132 INFO  [Log] # 
+2018-07-23 02:21:17,132 INFO  [Log] # 
+2018-07-23 02:24:24,685 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:24:24,686 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:24:24,686 INFO  [Log] *********************************** 
+2018-07-23 02:24:24,694 INFO  [Log] Opening Browser 
+2018-07-23 02:24:29,135 INFO  [Log] Navigating to URL 
+2018-07-23 02:24:35,349 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 02:24:37,580 INFO  [Log] Entering text into textbox Username 
+2018-07-23 02:24:37,833 INFO  [Log] Entering password into textbox Password 
+2018-07-23 02:24:37,971 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 02:24:38,127 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 02:24:41,146 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 02:24:42,221 INFO  [Log] Closing Browser 
+2018-07-23 02:24:43,061 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:24:43,061 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:24:43,061 INFO  [Log] # 
+2018-07-23 02:24:43,061 INFO  [Log] # 
+2018-07-23 02:24:43,061 INFO  [Log] # 
+2018-07-23 02:25:02,389 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:25:02,391 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:25:02,392 INFO  [Log] *********************************** 
+2018-07-23 02:25:51,259 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:25:51,259 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:25:51,259 INFO  [Log] # 
+2018-07-23 02:25:51,259 INFO  [Log] # 
+2018-07-23 02:25:51,259 INFO  [Log] # 
+2018-07-23 02:27:16,067 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:27:16,068 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:27:16,068 INFO  [Log] *********************************** 
+2018-07-23 02:27:16,076 INFO  [Log] Opening Browser 
+2018-07-23 02:27:19,768 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:27:19,769 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:27:19,769 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:27:19,769 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:27:19,769 INFO  [Log] # 
+2018-07-23 02:27:19,769 INFO  [Log] # 
+2018-07-23 02:27:19,769 INFO  [Log] # 
+2018-07-23 02:27:52,641 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:27:52,641 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:27:52,641 INFO  [Log] *********************************** 
+2018-07-23 02:27:52,645 INFO  [Log] Opening Browser 
+2018-07-23 02:27:56,597 INFO  [Log] Navigating to URL 
+2018-07-23 02:28:03,771 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 02:28:05,803 INFO  [Log] Entering text into textbox Username 
+2018-07-23 02:28:05,982 INFO  [Log] Entering password into textbox Password 
+2018-07-23 02:28:06,105 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 02:28:06,226 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 02:28:09,245 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 02:28:12,985 INFO  [Log] Closing Browser 
+2018-07-23 02:28:13,620 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:28:13,620 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:28:13,620 INFO  [Log] # 
+2018-07-23 02:28:13,620 INFO  [Log] # 
+2018-07-23 02:28:13,620 INFO  [Log] # 
+2018-07-23 02:28:31,396 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:28:31,399 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:28:31,400 INFO  [Log] *********************************** 
+2018-07-23 02:33:47,704 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:33:47,705 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:33:47,705 INFO  [Log] *********************************** 
+2018-07-23 02:33:47,707 INFO  [Log] Opening Browser 
+2018-07-23 02:33:51,808 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:33:51,809 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:33:51,809 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:33:51,810 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:33:51,810 INFO  [Log] # 
+2018-07-23 02:33:51,810 INFO  [Log] # 
+2018-07-23 02:33:51,810 INFO  [Log] # 
+2018-07-23 02:33:51,811 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:33:51,815 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:33:51,815 INFO  [Log] *********************************** 
+2018-07-23 02:33:51,817 INFO  [Log] Opening Browser 
+2018-07-23 02:33:57,150 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:33:57,150 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 02:33:57,151 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:33:57,151 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:33:57,151 INFO  [Log] # 
+2018-07-23 02:33:57,151 INFO  [Log] # 
+2018-07-23 02:33:57,151 INFO  [Log] # 
+2018-07-23 02:34:08,293 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:34:08,294 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 02:34:08,294 INFO  [Log] *********************************** 
+2018-07-23 02:34:08,296 INFO  [Log] Opening Browser 
+2018-07-23 02:34:12,735 INFO  [Log] Navigating to URL 
+2018-07-23 02:34:19,640 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 02:34:21,852 INFO  [Log] Entering text into textbox Username 
+2018-07-23 02:34:22,036 INFO  [Log] Entering password into textbox Password 
+2018-07-23 02:34:22,159 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 02:34:22,282 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 02:34:25,309 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 02:34:26,044 INFO  [Log] Closing Browser 
+2018-07-23 02:34:26,723 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:34:26,723 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:34:26,723 INFO  [Log] # 
+2018-07-23 02:34:26,723 INFO  [Log] # 
+2018-07-23 02:34:26,723 INFO  [Log] # 
+2018-07-23 02:34:26,723 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 02:34:26,723 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 02:34:26,723 INFO  [Log] *********************************** 
+2018-07-23 02:34:26,724 INFO  [Log] Opening Browser 
+2018-07-23 02:34:30,340 INFO  [Log] Navigating to URL 
+2018-07-23 02:34:36,640 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 02:34:38,780 INFO  [Log] Entering text into textbox Username 
+2018-07-23 02:34:38,957 INFO  [Log] Entering password into textbox Password 
+2018-07-23 02:34:39,058 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 02:34:39,165 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 02:34:42,184 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 02:34:43,425 INFO  [Log] Closing Browser 
+2018-07-23 02:34:44,110 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 02:34:44,110 INFO  [Log] ********** TestCase *************** 
+2018-07-23 02:34:44,110 INFO  [Log] # 
+2018-07-23 02:34:44,111 INFO  [Log] # 
+2018-07-23 02:34:44,111 INFO  [Log] # 
+2018-07-23 11:42:44,481 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:42:44,492 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 11:42:44,492 INFO  [Log] *********************************** 
+2018-07-23 11:42:44,494 INFO  [Log] Opening Browser 
+2018-07-23 11:43:06,348 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:43:06,348 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:43:06,349 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:43:06,349 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:43:06,349 INFO  [Log] # 
+2018-07-23 11:43:06,349 INFO  [Log] # 
+2018-07-23 11:43:06,349 INFO  [Log] # 
+2018-07-23 11:43:06,349 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:43:06,349 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 11:43:06,349 INFO  [Log] *********************************** 
+2018-07-23 11:43:06,351 INFO  [Log] Opening Browser 
+2018-07-23 11:43:06,356 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:43:06,356 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:43:06,356 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:43:06,356 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:43:06,357 INFO  [Log] # 
+2018-07-23 11:43:06,357 INFO  [Log] # 
+2018-07-23 11:43:06,357 INFO  [Log] # 
+2018-07-23 11:43:22,274 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:43:22,276 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 11:43:22,276 INFO  [Log] *********************************** 
+2018-07-23 11:43:22,284 INFO  [Log] Opening Browser 
+2018-07-23 11:43:32,706 INFO  [Log] Navigating to URL 
+2018-07-23 11:43:38,918 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 11:43:41,361 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 11:43:42,690 ERROR [Log] Class ExcelUtils || Method getCellData || Exception des: Cannot get a STRING value from a NUMERIC cell 
+2018-07-23 11:43:42,690 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 11:43:42,793 INFO  [Log] Closing Browser 
+2018-07-23 11:43:43,976 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:43:43,976 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:43:43,976 INFO  [Log] # 
+2018-07-23 11:43:43,976 INFO  [Log] # 
+2018-07-23 11:43:43,976 INFO  [Log] # 
+2018-07-23 11:43:43,976 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:43:43,977 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 11:43:43,977 INFO  [Log] *********************************** 
+2018-07-23 11:43:43,979 INFO  [Log] Opening Browser 
+2018-07-23 11:43:44,345 ERROR [Log] Not able to open Browser due Exception: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: RemoteWebDriver 
+2018-07-23 11:43:44,377 INFO  [Log] Closing Browser 
+2018-07-23 11:43:44,410 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:43:44,410 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:43:44,410 INFO  [Log] # 
+2018-07-23 11:43:44,410 INFO  [Log] # 
+2018-07-23 11:43:44,410 INFO  [Log] # 
+2018-07-23 11:46:15,246 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:46:15,246 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 11:46:15,246 INFO  [Log] *********************************** 
+2018-07-23 11:46:15,249 INFO  [Log] Opening Browser 
+2018-07-23 11:46:21,581 INFO  [Log] Navigating to URL 
+2018-07-23 11:46:33,989 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 11:46:40,273 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 11:46:40,513 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 11:46:40,637 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 11:46:41,232 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 11:46:44,253 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 11:46:49,506 INFO  [Log] Closing Browser 
+2018-07-23 11:46:50,184 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:46:50,184 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:46:50,184 INFO  [Log] # 
+2018-07-23 11:46:50,184 INFO  [Log] # 
+2018-07-23 11:46:50,184 INFO  [Log] # 
+2018-07-23 11:46:50,184 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:46:50,184 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 11:46:50,184 INFO  [Log] *********************************** 
+2018-07-23 11:46:50,185 INFO  [Log] Opening Browser 
+2018-07-23 11:46:50,191 ERROR [Log] Not able to open Browser due Exception: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: RemoteWebDriver 
+2018-07-23 11:46:50,203 INFO  [Log] Closing Browser 
+2018-07-23 11:46:50,216 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:46:50,216 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:46:50,216 INFO  [Log] # 
+2018-07-23 11:46:50,216 INFO  [Log] # 
+2018-07-23 11:46:50,216 INFO  [Log] # 
+2018-07-23 11:48:33,565 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:48:33,566 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 11:48:33,566 INFO  [Log] *********************************** 
+2018-07-23 11:48:33,568 INFO  [Log] Opening Browser 
+2018-07-23 11:48:37,473 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:48:37,473 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:48:37,473 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:48:37,473 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:48:37,473 INFO  [Log] # 
+2018-07-23 11:48:37,473 INFO  [Log] # 
+2018-07-23 11:48:37,473 INFO  [Log] # 
+2018-07-23 11:48:37,474 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:48:37,474 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 11:48:37,474 INFO  [Log] *********************************** 
+2018-07-23 11:48:37,475 INFO  [Log] Opening Browser 
+2018-07-23 11:48:37,482 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:48:37,483 ERROR [Log] Class ExcelUtils || Method setCellData || Exception des: C:\Users\anony\git\KeywordDrivenFramework\src\main\java\dataEngine\DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-07-23 11:48:37,483 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:48:37,483 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:48:37,483 INFO  [Log] # 
+2018-07-23 11:48:37,483 INFO  [Log] # 
+2018-07-23 11:48:37,483 INFO  [Log] # 
+2018-07-23 11:49:19,034 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:49:19,035 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 11:49:19,035 INFO  [Log] *********************************** 
+2018-07-23 11:49:19,037 INFO  [Log] Opening Browser 
+2018-07-23 11:49:22,757 INFO  [Log] Navigating to URL 
+2018-07-23 11:49:29,553 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 11:49:31,576 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 11:49:31,782 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 11:49:31,895 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 11:49:32,028 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 11:49:35,059 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 11:49:36,323 INFO  [Log] Closing Browser 
+2018-07-23 11:49:37,279 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:49:37,279 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:49:37,279 INFO  [Log] # 
+2018-07-23 11:49:37,279 INFO  [Log] # 
+2018-07-23 11:49:37,279 INFO  [Log] # 
+2018-07-23 11:49:37,279 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:49:37,279 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 11:49:37,279 INFO  [Log] *********************************** 
+2018-07-23 11:49:37,280 INFO  [Log] Opening Browser 
+2018-07-23 11:49:37,286 ERROR [Log] Not able to open Browser due Exception: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: RemoteWebDriver 
+2018-07-23 11:49:37,298 INFO  [Log] Closing Browser 
+2018-07-23 11:49:37,321 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:49:37,321 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:49:37,321 INFO  [Log] # 
+2018-07-23 11:49:37,321 INFO  [Log] # 
+2018-07-23 11:49:37,321 INFO  [Log] # 
+2018-07-23 11:55:58,631 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:55:58,631 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 11:55:58,631 INFO  [Log] *********************************** 
+2018-07-23 11:55:58,634 INFO  [Log] Opening Browser 
+2018-07-23 11:56:03,150 INFO  [Log] Navigating to URL 
+2018-07-23 11:56:09,952 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 11:56:12,031 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 11:56:12,305 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 11:56:12,470 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 11:56:12,574 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 11:56:15,601 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 11:56:18,144 INFO  [Log] Closing Browser 
+2018-07-23 11:56:18,807 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:56:18,807 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:56:18,807 INFO  [Log] # 
+2018-07-23 11:56:18,807 INFO  [Log] # 
+2018-07-23 11:56:18,807 INFO  [Log] # 
+2018-07-23 11:56:18,808 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 11:56:18,808 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 11:56:18,808 INFO  [Log] *********************************** 
+2018-07-23 11:56:18,809 INFO  [Log] Opening Browser 
+2018-07-23 11:56:18,883 ERROR [Log] Not able to open Browser due Exception: Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN10
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: driver.version: FirefoxDriver 
+2018-07-23 11:56:18,900 INFO  [Log] Closing Browser 
+2018-07-23 11:56:18,921 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 11:56:18,921 INFO  [Log] ********** TestCase *************** 
+2018-07-23 11:56:18,921 INFO  [Log] # 
+2018-07-23 11:56:18,921 INFO  [Log] # 
+2018-07-23 11:56:18,921 INFO  [Log] # 
+2018-07-23 12:00:13,703 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 12:00:13,703 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 12:00:13,703 INFO  [Log] *********************************** 
+2018-07-23 12:00:13,703 INFO  [Log] Opening Browser 
+2018-07-23 12:00:17,832 INFO  [Log] Navigating to URL 
+2018-07-23 12:00:27,012 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 12:00:31,388 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 12:00:31,655 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 12:00:31,818 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 12:00:32,001 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 12:00:35,052 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 12:00:40,226 INFO  [Log] Closing Browser 
+2018-07-23 12:00:41,173 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 12:00:41,173 INFO  [Log] ********** TestCase *************** 
+2018-07-23 12:00:41,173 INFO  [Log] # 
+2018-07-23 12:00:41,174 INFO  [Log] # 
+2018-07-23 12:00:41,174 INFO  [Log] # 
+2018-07-23 12:00:41,174 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 12:00:41,174 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 12:00:41,174 INFO  [Log] *********************************** 
+2018-07-23 12:00:41,177 INFO  [Log] Opening Browser 
+2018-07-23 12:01:13,318 INFO  [Log] Navigating to URL 
+2018-07-23 12:01:29,633 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 12:01:33,810 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 12:01:34,138 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 12:01:37,166 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 12:01:47,302 ERROR [Log] Not able to click: btn_Logout due Exception: Unable to locate element: //*[@id='account_logout']/a
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'ANONYMOUS1985', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_112'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0a1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 9308, moz:profile: C:\Users\anony\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 68cf172a-9ede-4d0d-8195-e2dadd7491e9
+*** Element info: {Using=xpath, value=//*[@id='account_logout']/a} 
+2018-07-23 12:01:47,314 INFO  [Log] Closing Browser 
+2018-07-23 12:01:51,443 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 12:01:51,443 INFO  [Log] ********** TestCase *************** 
+2018-07-23 12:01:51,443 INFO  [Log] # 
+2018-07-23 12:01:51,443 INFO  [Log] # 
+2018-07-23 12:01:51,443 INFO  [Log] # 
+2018-07-23 12:04:13,426 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 12:04:13,427 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 12:04:13,427 INFO  [Log] *********************************** 
+2018-07-23 12:04:13,427 INFO  [Log] Opening Browser 
+2018-07-23 12:04:20,976 INFO  [Log] Navigating to URL 
+2018-07-23 12:04:26,826 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 12:04:29,179 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 12:04:29,416 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 12:04:29,573 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 12:04:29,731 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 12:04:32,813 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 12:04:34,953 INFO  [Log] Closing Browser 
+2018-07-23 12:04:36,154 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 12:04:36,154 INFO  [Log] ********** TestCase *************** 
+2018-07-23 12:04:36,154 INFO  [Log] # 
+2018-07-23 12:04:36,154 INFO  [Log] # 
+2018-07-23 12:04:36,154 INFO  [Log] # 
+2018-07-23 12:04:36,154 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 12:04:36,154 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 12:04:36,154 INFO  [Log] *********************************** 
+2018-07-23 12:04:36,154 INFO  [Log] Opening Browser 
+2018-07-23 12:04:42,318 INFO  [Log] Navigating to URL 
+2018-07-23 12:04:51,770 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 12:04:54,025 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 12:04:54,245 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 12:04:54,294 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 12:04:54,604 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 12:04:57,621 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 12:04:57,880 INFO  [Log] Closing Browser 
+2018-07-23 12:05:00,216 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 12:05:00,216 INFO  [Log] ********** TestCase *************** 
+2018-07-23 12:05:00,216 INFO  [Log] # 
+2018-07-23 12:05:00,216 INFO  [Log] # 
+2018-07-23 12:05:00,216 INFO  [Log] # 
+2018-07-23 12:06:45,944 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 12:06:45,944 INFO  [Log] $$$$$$$$$$$ Login_01 $$$$$$$$$$$$ 
+2018-07-23 12:06:45,944 INFO  [Log] *********************************** 
+2018-07-23 12:06:45,960 INFO  [Log] Opening Browser 
+2018-07-23 12:06:50,836 INFO  [Log] Navigating to URL 
+2018-07-23 12:06:58,152 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 12:07:01,058 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 12:07:01,248 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 12:07:01,377 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 12:07:01,523 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 12:07:04,545 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 12:07:06,629 INFO  [Log] Closing Browser 
+2018-07-23 12:07:07,257 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 12:07:07,258 INFO  [Log] ********** TestCase *************** 
+2018-07-23 12:07:07,258 INFO  [Log] # 
+2018-07-23 12:07:07,258 INFO  [Log] # 
+2018-07-23 12:07:07,258 INFO  [Log] # 
+2018-07-23 12:07:07,258 INFO  [Log] ********* Start TestCase ********** 
+2018-07-23 12:07:07,258 INFO  [Log] $$$$$$$$$$$ Login_02 $$$$$$$$$$$$ 
+2018-07-23 12:07:07,258 INFO  [Log] *********************************** 
+2018-07-23 12:07:07,259 INFO  [Log] Opening Browser 
+2018-07-23 12:07:12,954 INFO  [Log] Navigating to URL 
+2018-07-23 12:07:17,805 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-07-23 12:07:20,507 INFO  [Log] Entering text into txtbx_Username 
+2018-07-23 12:07:20,655 INFO  [Log] Entering text into txtbx_Password 
+2018-07-23 12:07:20,805 INFO  [Log] Click on WebElement: btn_Login 
+2018-07-23 12:07:21,071 INFO  [Log] Waiting for 3 seconds 
+2018-07-23 12:07:24,087 INFO  [Log] Click on WebElement: btn_Logout 
+2018-07-23 12:07:24,371 INFO  [Log] Closing Browser 
+2018-07-23 12:07:26,148 INFO  [Log] ********** -E-N-D- **************** 
+2018-07-23 12:07:26,148 INFO  [Log] ********** TestCase *************** 
+2018-07-23 12:07:26,148 INFO  [Log] # 
+2018-07-23 12:07:26,148 INFO  [Log] # 
+2018-07-23 12:07:26,148 INFO  [Log] # 

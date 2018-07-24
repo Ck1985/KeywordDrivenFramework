@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration>
+	<appender name="fileAppender" class="org.apache.log4j.FileAppender">
+		<param name="threshold" value="info" />
+		<param name="file" value="C:\\Users\\anony\\git\\KeywordDrivenFramework\\src\\main\\java\\log4j\\LogFile.log" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="conversionPattern" value="%d %-5p [%c{1}] %m %n" />
+		</layout>
+	</appender>
+	<logger name="utility.Log">
+		<level value="info"/>
+		<appender-ref ref="fileAppender"/>
+	</logger>
+</log4j:configuration>
+ 
