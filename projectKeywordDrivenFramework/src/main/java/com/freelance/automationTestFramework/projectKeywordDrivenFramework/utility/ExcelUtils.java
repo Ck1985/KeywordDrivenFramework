@@ -1,6 +1,7 @@
 package com.freelance.automationTestFramework.projectKeywordDrivenFramework.utility;
 
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
 
 import com.freelance.automationTestFramework.projectKeywordDrivenFramework.config.*;
@@ -21,6 +22,7 @@ public class ExcelUtils {
 			FileInputStream inputStream = new FileInputStream(Constants.PATH_EXCELFILE + "\\" + Constants.NAME_EXCELFILE);
 			workbook = new XSSFWorkbook(inputStream);
 		} catch (Exception ex) {
+			Log.error("Class ExcelUtils || Method setExcelFile || Excception des: " + ex.getMessage());
 			throw (ex);
 		}
 	}
@@ -33,9 +35,14 @@ public class ExcelUtils {
 			cell = row.getCell(colIndex);
 			sData = cell.getStringCellValue();
 			
-			return sData;
+			if (sData == null) {
+				return "";
+			} else {
+				return sData;
+			}
 		} catch (Exception ex) {
-			return "";
+			Log.error("Class ExcelUtils || Method getExcelData || Exception des: " + ex.getMessage());
+			throw (ex);
 		}
 	}
 	
@@ -44,13 +51,32 @@ public class ExcelUtils {
 		try {
 			sheet = workbook.getSheet(sheetName);
 			rowNum = sheet.getLastRowNum();
+			
 			return rowNum;
 		} catch (Exception ex) {
 			throw (ex);
 		}
 	}
 	
-	public static void setExcelData() throws Exception {
-		
+	@SuppressWarnings("static-access")
+	public static void setExcelData(String sheetName, int indexRow, int indexCol, String result) throws Exception {
+		try {
+			FileOutputStream outputStream = new FileOutputStream(Constants.PATH_EXCELFILE + "\\" + Constants.NAME_EXCELFILE);
+			sheet = workbook.getSheet(sheetName);
+			row = sheet.getRow(indexRow);
+			cell = row.getCell(indexCol, row.RETURN_BLANK_AS_NULL);
+			if (cell == null) {
+				cell = row.createCell(indexCol);
+				cell.setCellValue(result);
+			} else {
+				cell.setCellValue(result);
+			}
+			workbook.write(outputStream);
+			outputStream.flush();
+			outputStream.close();
+		} catch (Exception ex) {
+			Log.error("Class ExcelUtils || Method setExcelData || Exception des: " + ex.getMessage());
+			throw (ex);
+		}
 	}
 }

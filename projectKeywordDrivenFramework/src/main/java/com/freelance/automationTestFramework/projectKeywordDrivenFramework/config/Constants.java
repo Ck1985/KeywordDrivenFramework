@@ -10,7 +10,11 @@ public class Constants {
 	
 	public static final String CONFIG_CHROMEDRIVER = "webdriver.chrome.driver";
 	public static final String PATH_CHROMEDRIVER = "C:\\Users\\anony\\git\\projectKeywordDrivenFramework\\src\\main\\java\\com\\freelance\\automationTestFramework\\projectKeywordDrivenFramework\\configurators\\chromedriver.exe";
-
+	public static final String CONFIG_FIREFOXDRIVER = "webdriver.firefox.driver";
+	public static final String PATH_FIREFOXDRIVER = "C:\\Users\\anony\\git\\projectKeywordDrivenFramework\\src\\main\\java\\com\\freelance\\automationTestFramework\\projectKeywordDrivenFramework\\configurators\\geckodriver.exe";
+	public static final String CONFIG_DRIVERIE = "webdriver.ie.driver";
+	public static final String PATH_DRIVERIE = "C:\\Users\\anony\\git\\projectKeywordDrivenFramework\\src\\main\\java\\com\\freelance\\automationTestFramework\\projectKeywordDrivenFramework\\configurators\\IEDriverServer.exe";
+	
 	public static final String PATH_REPOSITORY = "C:\\Users\\anony\\git\\projectKeywordDrivenFramework\\src\\main\\java\\com\\freelance\\automationTestFramework\\projectKeywordDrivenFramework\\config\\Repository.properties";
 	
 	public static final int INDEXCOL_TESTCASEID_TESTSTEPS = 0;

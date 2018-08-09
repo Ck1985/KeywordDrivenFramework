@@ -1,0 +1,75 @@
+2018-08-08 19:27:30,687 INFO  [Log] Opening Browser 
+2018-08-08 19:27:40,109 ERROR [Log] Class ExcelUtils || Method setExcelData || Exception des: C:\Users\anony\git\projectKeywordDrivenFramework\src\main\java\com\freelance\automationTestFramework\projectKeywordDrivenFramework\dataEngine\MyDataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-08-08 19:27:40,109 ERROR [Log] Class ExcelUtils || Method setExcelData || Exception des: C:\Users\anony\git\projectKeywordDrivenFramework\src\main\java\com\freelance\automationTestFramework\projectKeywordDrivenFramework\dataEngine\MyDataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-08-08 19:27:40,110 ERROR [Log] Class ExcelUtils || Method setExcelData || Exception des: C:\Users\anony\git\projectKeywordDrivenFramework\src\main\java\com\freelance\automationTestFramework\projectKeywordDrivenFramework\dataEngine\MyDataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-08-08 19:27:40,110 INFO  [Log] Closing Browser 
+2018-08-08 19:27:54,549 INFO  [Log] Opening Browser 
+2018-08-08 19:28:12,819 INFO  [Log] Navigating to URL 
+2018-08-08 19:28:17,103 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-08-08 19:28:17,640 INFO  [Log] Entering text into txtbx_Username 
+2018-08-08 19:28:17,884 INFO  [Log] Entering text into txtbx_Password 
+2018-08-08 19:28:18,115 INFO  [Log] Click on WebElement: btn_Login 
+2018-08-08 19:28:26,925 INFO  [Log] Click on WebElement: btn_Logout 
+2018-08-08 19:28:27,007 INFO  [Log] Closing Browser 
+2018-08-08 19:28:27,981 INFO  [Log] Opening Browser 
+2018-08-08 19:28:42,817 INFO  [Log] Navigating to URL 
+2018-08-08 19:28:51,319 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-08-08 19:28:51,608 INFO  [Log] Entering text into txtbx_Username 
+2018-08-08 19:28:51,791 INFO  [Log] Entering text into txtbx_Password 
+2018-08-08 19:28:52,031 INFO  [Log] Click on WebElement: btn_Login 
+2018-08-08 19:29:39,880 INFO  [Log] Click on WebElement: li_MacBooks 
+2018-08-08 19:30:07,016 INFO  [Log] Click on WebElement: linkText_MacbooksPro13inch 
+2018-08-08 19:30:07,189 INFO  [Log] Click on WebElement: btn_Logout 
+2018-08-08 19:30:07,270 INFO  [Log] Closing Browser 
+2018-08-08 19:30:08,222 INFO  [Log] Opening Browser 
+2018-08-08 19:30:25,823 INFO  [Log] Navigating to URL 
+2018-08-08 19:30:33,889 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-08-08 19:30:34,189 INFO  [Log] Entering text into txtbx_Username 
+2018-08-08 19:30:34,355 INFO  [Log] Entering text into txtbx_Password 
+2018-08-08 19:30:34,523 INFO  [Log] Click on WebElement: btn_Login 
+2018-08-08 19:31:00,998 INFO  [Log] Click on WebElement: li_iPods 
+2018-08-08 19:31:09,493 INFO  [Log] Click on WebElement: linkText_Ipods32Gb 
+2018-08-08 19:31:09,644 INFO  [Log] Click on WebElement: btn_AddToCart 
+2018-08-08 19:31:20,523 INFO  [Log] Click on WebElement: btn_Logout 
+2018-08-08 19:31:20,587 INFO  [Log] Closing Browser 
+2018-08-08 19:31:21,472 INFO  [Log] Opening Browser 
+2018-08-08 19:31:41,279 INFO  [Log] Navigating to URL 
+2018-08-08 19:31:49,348 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-08-08 19:31:49,666 INFO  [Log] Entering text into txtbx_Username 
+2018-08-08 19:31:49,946 INFO  [Log] Entering text into txtbx_Password 
+2018-08-08 19:31:50,429 INFO  [Log] Click on WebElement: btn_Login 
+2018-08-08 19:32:21,034 INFO  [Log] Click on WebElement: li_Accessories 
+2018-08-08 19:32:31,896 INFO  [Log] Click on WebElement: linkText_SkullcandyPLYR1-Black 
+2018-08-08 19:32:32,113 INFO  [Log] Click on WebElement: btn_AddToCart 
+2018-08-08 19:32:47,492 INFO  [Log] Click on WebElement: linkText_Checkout 
+2018-08-08 19:32:48,360 INFO  [Log] Click on WebElement: btn_Logout 
+2018-08-08 19:32:48,462 INFO  [Log] Closing Browser 
+2018-08-08 19:32:49,314 INFO  [Log] Opening Browser 
+2018-08-08 19:33:07,527 INFO  [Log] Navigating to URL 
+2018-08-08 19:33:13,328 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-08-08 19:33:14,160 INFO  [Log] Entering text into txtbx_Username 
+2018-08-08 19:33:14,680 INFO  [Log] Entering text into txtbx_Password 
+2018-08-08 19:33:15,083 INFO  [Log] Click on WebElement: btn_Login 
+2018-08-08 19:33:30,161 INFO  [Log] Click on WebElement: li_Accessories 
+2018-08-08 19:33:35,002 INFO  [Log] Click on WebElement: linkText_SkullcandyPLYR1-Black 
+2018-08-08 19:33:35,434 INFO  [Log] Click on WebElement: btn_AddToCart 
+2018-08-08 19:33:45,665 INFO  [Log] Click on WebElement: linkText_Checkout 
+2018-08-08 19:33:46,377 INFO  [Log] Click on WebElement: btn_Continue 
+2018-08-08 19:33:48,052 INFO  [Log] Entering text into txtbx_Firstname 
+2018-08-08 19:33:48,432 INFO  [Log] Entering text into txtbx_Lastname 
+2018-08-08 19:33:49,453 INFO  [Log] Entering text into txtbx_Address 
+2018-08-08 19:33:50,185 INFO  [Log] Entering text into txtbx_City 
+2018-08-08 19:33:50,986 INFO  [Log] Entering text into txtbx_Undefined 
+2018-08-08 19:33:52,422 INFO  [Log] Entering text into txtbx_PostalCode 
+2018-08-08 19:33:53,121 INFO  [Log] Entering text into txtbx_Phone 
+2018-08-08 19:33:53,620 INFO  [Log] Click on WebElement: checkbox_SameAsBillingAddress 
+2018-08-08 19:34:25,357 INFO  [Log] Click on WebElement: btn_Purchase 
+2018-08-08 19:34:25,514 INFO  [Log] Click on WebElement: btn_Logout 
+2018-08-08 19:34:25,588 INFO  [Log] Closing Browser 
+2018-08-08 19:34:26,396 INFO  [Log] Opening Browser 
+2018-08-08 19:34:43,850 INFO  [Log] Navigating to URL 
+2018-08-08 19:34:51,310 INFO  [Log] Click on WebElement: btn_MyAccount 
+2018-08-08 19:34:51,593 INFO  [Log] Entering text into txtbx_Username 
+2018-08-08 19:34:52,059 INFO  [Log] Entering text into txtbx_Password 
+2018-08-08 19:34:52,209 INFO  [Log] Click on WebElement: btn_Login 
+2018-08-08 19:35:13,036 INFO  [Log] Closing Browser 

@@ -36,63 +36,9 @@ public class Utils {
 		
 		return or;
 	}
-	
-	public static String getRepositoryMyAccount() throws Exception {
-		String OR_MyAccount = null;
-		try {
-			OR_MyAccount = OR.getProperty("btn_MyAccount");
-		} catch (Exception ex) {
-			throw (ex);
-		}
-		
-		return OR_MyAccount;
-	}
-	
-	public static String getRepositoryUsername() throws Exception {
-		String OR_Username = null;
-		try {
-			OR_Username = OR.getProperty("txtbx_Username");
-		} catch (Exception ex) {
-			throw (ex);
-		}
-		
-		return OR_Username;
-	}
-	
-	public static String getRepositoryPassword() throws Exception {
-		String OR_Password = null;
-		try {
-			OR_Password = OR.getProperty("txtbx_Password");
-		} catch (Exception ex) {
-			throw (ex);
-		}
-		
-		return OR_Password;
-	}
-	
-	public static String getRepositoryLoginBtn() throws Exception {
-		String OR_LoginBtn = null;
-		try {
-			OR_LoginBtn = OR.getProperty("btn_Login");
-		} catch (Exception ex) {
-			throw (ex);
-		}
-		
-		return OR_LoginBtn;
-	}
-
-	public static String getRepositoryLogoutBtn() throws Exception {
-		String OR_LogoutBtn = null;
-		try {
-			OR_LogoutBtn = OR.getProperty("btn_Logout");
-		} catch (Exception ex) {
-			throw (ex);
-		}
-		
-		return OR_LogoutBtn;
-	}
 
 	private static void execute_Actions(String sheetName, int rowIndex) throws Exception {
+		Boolean stepsResult = true;
 		String methodName = null;
 		String testCaseId = null;
 		Action_Keywords actionKeyword = new Action_Keywords();
@@ -105,11 +51,16 @@ public class Utils {
 				sData = ExcelUtils.getExcelData(sheetName, rowIndex, Constants.INDEXCOL_DATASET_TESTSTEPS);
 				testCaseId = ExcelUtils.getExcelData(sheetName, rowIndex, Constants.INDEXCOL_TESTCASEID_TESTSTEPS);
 				if (methodName.equalsIgnoreCase(sActionKeyword)) {
-					method.invoke(actionKeyword,sPageObject, sData, testCaseId);
+					System.out.println(methodName);
+					method.invoke(actionKeyword, sPageObject, sData, testCaseId);
+					stepsResult = true;
+					ExcelUtils.setExcelData(sheetName, rowIndex, Constants.INDEXCOL_RESULT_TESTSTEPS, "Pass");
 					break;
 				}
 			}
 		} catch (Exception ex) {
+			stepsResult = false;
+			ExcelUtils.setExcelData(sheetName, rowIndex, Constants.INDEXCOL_RESULT_TESTSTEPS, "Fail");
 			throw (ex);
 		}
 	}
@@ -117,8 +68,9 @@ public class Utils {
 	public static void execute_TestCase(String sheetName, int rowIndex) throws Exception {
 		String nameTCSheet_2 = null,
 			   nameTCSheet_1 = null;
-		int indexStartTC = cursorSheet,
-			cursorTC = cursorSheet;
+		int totalRowSheet_1 = 0;
+		Boolean TC_Result = true;
+		
 		try {
 			nameTCSheet_2 = ExcelUtils.getExcelData(Constants.SHEET_TESTCASES, rowIndex, Constants.INDEXCOL_TESTCASEID_TESTCASES);
 			nameTCSheet_1 = ExcelUtils.getExcelData(Constants.SHEET_TESTSTEPS, cursorSheet, Constants.INDEXCOL_TESTCASEID_TESTSTEPS);
@@ -126,17 +78,23 @@ public class Utils {
 				cursorSheet++;
 				nameTCSheet_1 = ExcelUtils.getExcelData(Constants.SHEET_TESTSTEPS, cursorSheet, Constants.INDEXCOL_TESTCASEID_TESTSTEPS);
 			}
-			while (nameTCSheet_1.equalsIgnoreCase(nameTCSheet_2)) {
+			totalRowSheet_1 = ExcelUtils.getRowNumSheet(Constants.SHEET_TESTSTEPS);
+			while (nameTCSheet_1.equalsIgnoreCase(nameTCSheet_2) && (cursorSheet < totalRowSheet_1)) {
 				execute_Actions(Constants.SHEET_TESTSTEPS, cursorSheet);
 				cursorSheet++;
-				nameTCSheet_1 = ExcelUtils.getExcelData(Constants.SHEET_TESTSTEPS, cursorSheet, Constants.INDEXCOL_TESTCASEID_TESTSTEPS);				
+				nameTCSheet_1 = ExcelUtils.getExcelData(Constants.SHEET_TESTSTEPS, cursorSheet, Constants.INDEXCOL_TESTCASEID_TESTSTEPS);
+				TC_Result = true;
+				ExcelUtils.setExcelData(Constants.SHEET_TESTCASES, rowIndex, Constants.INDEXCOL_RESULT_TESTCASES, "Pass");
 			}
 		} catch (Exception ex) {
+			TC_Result = false;
+			ExcelUtils.setExcelData(Constants.SHEET_TESTCASES, rowIndex, Constants.INDEXCOL_RESULT_TESTCASES, "Fail");
 			throw (ex);
 		}
 	}
 	
 	public static void run_Each_TestCase(String testCaseName) throws Exception {
+		Boolean bResult = true;
 		try {
 			int numRowTestCase = 0;
 			String nameTC = "";

@@ -3,7 +3,22 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="com.freelance.automationTestFramework.projectKeywordDrivenFramework.CheckOut"/>
+      <class name="com.freelance.automationTestFramework.projectKeywordDrivenFramework.All_TestCase">
+        <methods>
+          <include name="run_All_Testcase"/>
+        </methods>
+      </class> <!-- com.freelance.automationTestFramework.projectKeywordDrivenFramework.All_TestCase -->
     </classes>
   </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.freelance.automationTestFramework.projectKeywordDrivenFramework.All_TestCase">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="run_All_Testcase"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.freelance.automationTestFramework.projectKeywordDrivenFramework.All_TestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
